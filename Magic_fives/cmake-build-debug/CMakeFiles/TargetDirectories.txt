@@ -1,0 +1,3 @@
+C:/Users/piotc/Desktop/Algorytmy/Magic_fives/cmake-build-debug/CMakeFiles/Magic_fives.dir
+C:/Users/piotc/Desktop/Algorytmy/Magic_fives/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/piotc/Desktop/Algorytmy/Magic_fives/cmake-build-debug/CMakeFiles/rebuild_cache.dir

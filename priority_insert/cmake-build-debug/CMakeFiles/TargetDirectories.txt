@@ -1,0 +1,3 @@
+C:/Users/piotc/Desktop/Algorytmy/priority_insert/cmake-build-debug/CMakeFiles/priority_insert.dir
+C:/Users/piotc/Desktop/Algorytmy/priority_insert/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/piotc/Desktop/Algorytmy/priority_insert/cmake-build-debug/CMakeFiles/rebuild_cache.dir
