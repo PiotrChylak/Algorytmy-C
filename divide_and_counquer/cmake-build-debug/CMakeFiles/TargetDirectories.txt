@@ -1,0 +1,3 @@
+C:/Users/piotc/Desktop/Algorytmy/divide_and_counquer/cmake-build-debug/CMakeFiles/divide_and_counquer.dir
+C:/Users/piotc/Desktop/Algorytmy/divide_and_counquer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/piotc/Desktop/Algorytmy/divide_and_counquer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
