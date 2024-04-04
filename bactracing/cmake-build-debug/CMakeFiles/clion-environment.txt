@@ -1,0 +1,4 @@
+ToolSet: w64 11.0 (local)@C:\Users\piotc\Desktop\Studia Sem. 3\algorytmy i struktury danych\CLion 2023.2.2\bin\mingw
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/piotc/Desktop/Studia Sem. 3/algorytmy i struktury danych/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe
