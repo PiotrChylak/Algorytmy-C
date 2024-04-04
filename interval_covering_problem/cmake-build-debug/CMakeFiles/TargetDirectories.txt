@@ -1,0 +1,3 @@
+C:/Users/piotc/Desktop/Algorytmy/interval_covering_problem/cmake-build-debug/CMakeFiles/interval_covering_problem.dir
+C:/Users/piotc/Desktop/Algorytmy/interval_covering_problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/piotc/Desktop/Algorytmy/interval_covering_problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
